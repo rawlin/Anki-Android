@@ -197,6 +197,12 @@
     <string name="card_template_editor_insert_field">Вставить поле</string>
     <string name="card_template_editor_select_field">Выбрать поле</string>
     <string name="card_template_editor_cant_delete">Нужен хотя бы один тип карточек</string>
+    <plurals name="card_template_editor_confirm_add">
+        <item quantity="one">Будет создана %d карточка. Продолжить?</item>
+        <item quantity="few">Будут созданы %d карточки. Продолжить?</item>
+        <item quantity="many">Будут созданы %d карточек. Продолжить?</item>
+        <item quantity="other">Будут создано %d карточек. Продолжить?</item>
+    </plurals>
     <plurals name="card_template_editor_confirm_delete">
         <item quantity="one">Удалить тип “%2$s” и его %1$d карточку?</item>
         <item quantity="few">Удалить тип “%2$s” и его %1$d карточки?</item>

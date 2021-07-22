@@ -310,5 +310,5 @@
     <string name="type_in_answer_focus_summ">Automatically focus the ‘type in answer’ field in the reviewer</string>
     <!-- Open Changelog-->
     <string name="open_changelog">परिवर्तन लॉग खोलें</string>
-    <string name="binding_add_gesture">Add gesture</string>
+    <string name="binding_add_gesture">इशारा जोड़ें</string>
 </resources>

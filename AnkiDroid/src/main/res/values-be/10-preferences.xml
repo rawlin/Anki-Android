@@ -315,5 +315,5 @@
     <string name="type_in_answer_focus_summ">Падчас паўтарэння аўтаматычна пераключацца на поле \"Увесці адказ\"</string>
     <!-- Open Changelog-->
     <string name="open_changelog">Адкрыць спіс змен</string>
-    <string name="binding_add_gesture">Add gesture</string>
+    <string name="binding_add_gesture">Дадаць жэст</string>
 </resources>

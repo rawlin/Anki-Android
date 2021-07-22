@@ -102,10 +102,10 @@
     <string name="gestures_swipe_right" maxLength="41">Tažení doprava</string>
     <string name="gestures_double_tap" maxLength="41">Dvojklepnutí</string>
     <string name="gestures_long_tap" maxLength="41">Dlouhý stisk</string>
-    <string name="gestures_tap_top" maxLength="41">Klepnutí nahoru</string>
+    <string name="gestures_tap_top" maxLength="41">Klepnutí nahoře</string>
     <string name="gestures_tap_left" maxLength="41">Klepnutí vlevo</string>
     <string name="gestures_tap_right" maxLength="41">Klepnutí vpravo</string>
-    <string name="gestures_tap_bottom" maxLength="41">Klepnutí dolů</string>
+    <string name="gestures_tap_bottom" maxLength="41">Klepnutí dole</string>
     <string name="gestures_corner_tap_top_left" maxLength="41">Klepnutí vlevo nahoře</string>
     <string name="gestures_corner_tap_top_center">Klepnutí nahoře uprostřed</string>
     <string name="gestures_corner_tap_top_right" maxLength="41">Klepnutí vpravo nahoře</string>
@@ -314,5 +314,5 @@
     <string name="type_in_answer_focus_summ">Automaticky vybrat pole „napište odpověď“ při opakování</string>
     <!-- Open Changelog-->
     <string name="open_changelog">Otevřít seznam změn</string>
-    <string name="binding_add_gesture">Add gesture</string>
+    <string name="binding_add_gesture">Přidat gesto</string>
 </resources>
